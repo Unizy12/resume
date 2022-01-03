@@ -18,20 +18,17 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/ziniu-yu-2396291a6
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of California Irvine
+    url: https://uci.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Master of Data Science
+      institution: University of California, Irvine
+      year: 2022
+    - course: BSc in Applied Mathematics
+      institution: Harbin Engineering University
+      year: 2020
+email: ziniuy1@uci.edu
 superuser: true
 highlight_name: true
 ---
