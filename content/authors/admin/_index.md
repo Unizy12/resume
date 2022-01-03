@@ -1,22 +1,16 @@
 ---
 title: Ziniu Yu
 role: Master of Data Science
-avatar_filename: me.jpg
+avatar_filename: avatar.jpg
 bio: My interests include statistics, machine learning and algorithms.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Statistics
+  - Algorithms
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
