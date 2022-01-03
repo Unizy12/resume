@@ -17,6 +17,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  - display:
+      header: false
+    icon: github
+    icon_pack: fas
+    link: https://github.com/Unizy12
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
