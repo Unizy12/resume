@@ -2,8 +2,7 @@
 title: Ziniu Yu
 role: Master of Data Science
 avatar_filename: me.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My interests include statistics, machine learning and algorithms.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -42,9 +41,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Quick learner with multi-disciplinary experience in building models for solving problems. Looking for an internship as a data analyst where I can apply my statistic knowledge, my understanding of algorithms combined with my programming skills to explore the value behind the data and better serve the customers.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
