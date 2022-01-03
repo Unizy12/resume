@@ -13,15 +13,10 @@ social:
     link: /#contact
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Unizy12
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-  - display:
-      header: false
-    icon: github
-    icon_pack: fas
-    link: https://github.com/Unizy12
+    link: https://www.linkedin.com/in/ziniu-yu-2396291a6
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
