@@ -25,8 +25,8 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 70%
-  icon: camera-retro
-  icon_pack: fas
+  icon: psgsql
+  icon_pack: custom
   name: Photography
 
 # Uncomment to use emoji icons.
