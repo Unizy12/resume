@@ -29,13 +29,13 @@ experience:
     location: 'Wuhan, China'
     date_start: '2019-10-01'
     date_end: '2020-1-23'
-    description: |2-
+<!--     description: |2-
         Responsibilities include:
         
         * Examined the structure of webs, and operated a web crawler to collect entity instances related to music. Added more than 10,000 instances, helped the customers better find their music tastes, and made the company recommend the music to the customers more accurately. 
         * Built the word2vec word vector NLP model, and analyzed the similarity between words of finance vocabulary. Expanded 5,000 words to the thesaurus, increased the recall of the tagging process by 2%.
         * Used Hive SQL to query music data from the database, analyzed the features such as the popularity of it with Python. Showed the result to the product manager through PPT, helped better make advertisements strategies.
-        * Learnt to code in Scala, helped improve the data mining process, and improved the accuracy of tagging process to 90%.
+        * Learnt to code in Scala, helped improve the data mining process, and improved the accuracy of tagging process to 90%. -->
 
   - title: 'Analyst Intern'
     company: 'Wuhan Bureau Of Statistics'
@@ -44,11 +44,11 @@ experience:
     location: 'Wuhan, China'
     date_start: '2019-08-01'
     date_end: '2019-09-15'
-    description: |2-
+<!--     description: |2-
       Responsibilities include:
       
         * Established a mathematical model, estimated the total factor productivity (TFP) and related factors of Wuhan. Helped researchers understand the impact of technological innovation on Wuhan’s economy from a quantitative perspective.
-        * Predicted the potential economic growth of Wuhan and contributed to a theoretical paper about the influence of technology development on the economy.
+        * Predicted the potential economic growth of Wuhan and contributed to a theoretical paper about the influence of technology development on the economy. -->
 
 design:
   columns: '2'
