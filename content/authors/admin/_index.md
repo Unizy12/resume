@@ -1,5 +1,5 @@
 ---
-title: Ziniu Yu
+title: Unizy
 role: Master of Data Science
 avatar_filename: avatar.jpg
 bio: My interests include statistics, machine learning and algorithms.
