@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.mi.com/about'
     company_logo: Xiaomi_logo
     location: 'Wuhan, China'
-    date_start: '2019-10-1'
+    date_start: '2019-10-01'
     date_end: '2020-1-23'
     description: |2-
         Responsibilities include:
@@ -42,7 +42,7 @@ experience:
     company_url: 'http://tjj.wuhan.gov.cn/'
     company_logo: org-x
     location: 'Wuhan, China'
-    date_start: '2019-08-1'
+    date_start: '2019-08-01'
     date_end: '2019-09-15'
     description: |2-
       Responsibilities include:
