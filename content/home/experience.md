@@ -44,7 +44,7 @@ experience:
     location: Wuhan, China
     date_start: '2019-08'
     date_end: '2019-09'
-    description: 
+    description: |2-
       Responsibilities include:
       
         * Established a mathematical model, estimated the total factor productivity (TFP) and related factors of Wuhan. Helped researchers understand the impact of technological innovation on Wuhan’s economy from a quantitative perspective.
