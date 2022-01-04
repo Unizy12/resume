@@ -1,5 +1,5 @@
 ---
-title: Unizy
+title: Unizy777
 role: Master of Data Science
 avatar_filename: avatar.jpg
 bio: My interests include statistics, machine learning and algorithms.
