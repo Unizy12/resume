@@ -45,10 +45,10 @@ experience:
     date_start: '2019-08'
     date_end: '2019-09'
     description: 
-    * Established a mathematical model, estimated the total factor productivity (TFP) and related factors of Wuhan. Helped 
-researchers understand the impact of technological innovation on Wuhan’s economy from a quantitative perspective.
-    * Predicted the potential economic growth of Wuhan and contributed to a theoretical paper about the influence of 
-technology development on the economy.
+      Responsibilities include:
+      
+        * Established a mathematical model, estimated the total factor productivity (TFP) and related factors of Wuhan. Helped researchers understand the impact of technological innovation on Wuhan’s economy from a quantitative perspective.
+        * Predicted the potential economic growth of Wuhan and contributed to a theoretical paper about the influence of technology development on the economy.
 
 design:
   columns: '2'
