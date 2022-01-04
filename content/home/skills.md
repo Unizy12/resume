@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 90%
   icon: python
-  icon_pack: fab
+  icon_pack: custom
   name: Python
 - description: 100%
   icon: chart-line
@@ -27,7 +27,7 @@ feature:
 - description: 70%
   icon: psgsql
   icon_pack: custom
-  name: Photography
+  name: Postgresql
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
