@@ -34,4 +34,4 @@ highlight_name: true
 ---
 Quick learner with multi-disciplinary experience in building models for solving problems. Looking for an internship as a data analyst where I can apply my statistic knowledge, my understanding of algorithms combined with my programming skills to explore the value behind the data and better serve the customers.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
