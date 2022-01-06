@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 'Software Engineer Intern'
+  - title: 'Data Scientist Intern'
     company: 'Xiaomi Technology'
     company_url: 'https://www.mi.com/about'
     company_logo: Xiaomi_logo
@@ -32,10 +32,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Examined the structure of webs, and operated a web crawler to collect entity instances related to music. Added more than 10,000 instances, helped the customers better find their music tastes, and made the company recommend the music to the customers more accurately. 
-        * Built the word2vec word vector NLP model, and analyzed the similarity between words of finance vocabulary. Expanded 5,000 words to the thesaurus, increased the recall of the tagging process by 2%.
-        * Used Hive SQL to query music data from the database, analyzed the features such as the popularity of it with Python. Showed the result to the product manager through PPT, helped better make advertisements strategies.
-        * Learnt to code in Scala, helped improve the data mining process, and improved the accuracy of tagging process to 90%.
+        * Built a word2vec word vector NLP model to calculate the similarity between finance words. Expanded 5,000 words, and enhanced the recall of the tagging process by 3%. 
+        * Deployed a Web Crawler to collect music entities, added more than 10,000 entities, and 87% of them were utilized for tagging users to make advertising more precise. 
+        * Operated hive SQL to query music data, analyzed the popularity of them with Pandas, and helped increased DAU by 5000.
+        * Coded in Scala, helped improve the data mining logic, and improved the accuracy of tagging process to 90%.
 
   - title: 'Analyst Intern'
     company: 'Wuhan Bureau Of Statistics'
@@ -47,8 +47,8 @@ experience:
     description: |2-
       Responsibilities include:
       
-        * Established a mathematical model, estimated the total factor productivity (TFP) and related factors of Wuhan. Helped researchers understand the impact of technological innovation on Wuhan’s economy from a quantitative perspective.
-        * Predicted the potential economic growth of Wuhan and contributed to a theoretical paper about the influence of technology development on the economy.
+        * Estimated the total factor productivity (TFP) leveraging Cobb–Douglas production function. Helped researchers understand the impact of technological innovation on Wuhan’s economy from a quantitative perspective.
+        * Applied the Time Series Regression to predict the potential economic growth of Wuhan, and contributed to a theoretical paper about the influence of technology development on the economy.
 
 design:
   columns: '2'
