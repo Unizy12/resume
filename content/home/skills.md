@@ -25,6 +25,10 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 70%
+  icon: ML
+  icon_pack: custom
+  name: MachineLearning
+- description: 70%
   icon: psgsql
   icon_pack: custom
   name: Postgresql
